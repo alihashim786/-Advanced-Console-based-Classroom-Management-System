@@ -1,0 +1,10 @@
+ClassName    SubjectName    TeacherName    scription/Section  Students
+-T,  DATA STRUCTURES, UNKNWON , ALL CS SECTIONS, RAZA
+OOP-C,      OBJECT ORIENTE, adil.majeed, AI-B,    SAS,     ALI RAZA
+OOP-   OBJECT ORIENTED, adil.majeed, AI-B, D
+OOP-E, OBJECT ORIENTE adil.majeed, AI-B
+SUMMERS-B,   OOP,   SIR JAWAD, ALL CS SECTIONS,          AHMED,    erwr, ALI AHSIM, ALI
+OOP-I, OBJECT ORIENTE adil.majeed, AI-B
+OOP-J, OBJECT ORIENTE adil.majeed, AI-B
+OOP-SUMMERS-PARHO,  ALLAH,  ZOYA SUMBUL,   ALL CS SECTION ANAI,   AHMED,    erwr, ADD ME
+OOP-SUMMERS-PARHO,  ALLAH,  ZOYA SUMBUL,   ALL CS SECTION ANAI,   AHMED,    erwr, ADD ME
