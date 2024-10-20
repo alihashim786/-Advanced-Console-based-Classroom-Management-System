@@ -4,6 +4,7 @@ Thats a prompt based Classroom Management System Using C++ Object Oriented Conce
 This project implements a console-based classroom management system using C++ and object-oriented programming (OOP) concepts. The system includes key functionalities such as user management, class organization, assignment management, submission and grading, gradebook handling, file management, notification system, and user interface interactions.
 
 Features
+
     User Management: Handles users (teachers, students) with different roles using inheritance and polymorphism.
     Class Management: Create, update, delete classes, manage student rosters, and persist class data.
     Assignment Management: Create, update, and delete assignments with validation for deadlines.
