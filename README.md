@@ -18,8 +18,9 @@ This project implements a console-based classroom management system using C++ an
 
 ## Documentation
 
-        **[ClassDiagram.pdf](./ClassDiagram.pdf):** Visual representation of the system's class structure.
-        **[ProjectExplanation.pdf](./ProjectExplanation.pdf):** Detailed explanation of the project's components and design.
+    **[ClassDiagram.pdf](./ClassDiagram.pdf):** Visual representation of the system's class structure.
+    
+    **[ProjectExplanation.pdf](./ProjectExplanation.pdf):** Detailed explanation of the project's components and design.
 
 ## <img src="https://img.icons8.com/ios/50/000000/email-open.png" width="20"/> Contact:
 If you have any queries, feel free to email me at [muhammadalihashim514@gmail.com](mailto:muhammadalihashim514@gmail.com) or [i220554@nu.edu.pk](mailto:i220554@nu.edu.pk).
